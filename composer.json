@@ -7,7 +7,6 @@
             "email": "matt@labrum.me"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
 	"psr/log": "~1.0.2"
     },
