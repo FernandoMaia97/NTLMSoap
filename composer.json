@@ -1,5 +1,5 @@
 {
-    "name": "mlabrum/ntlm-soap",
+    "name": "fernando/ntlmsoap",
     "description": "Provides a NTLM Soap implementation",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-	"psr/log": "~1.0.0"
+	"psr/log": "~1.0.2"
     },
      "autoload": {
         "psr-0": {"NTLMSoap": "src/"}
